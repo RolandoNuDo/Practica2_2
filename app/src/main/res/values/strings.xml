@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practica2</string>
+    <string name="txtPlano">Calculadora de Intereces</string>
+    <string name="txtHin">Capital $</string>
+    <string name="txtPer">No. Periodos</string>
+    <string name="calcular">Calcular</string>
+    <string name="txtTasa">Tasa Mensual</string>
+</resources>
